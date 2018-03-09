@@ -1,0 +1,24 @@
+{
+  "name": "unhandled-rejection-promise",
+  "version": "0.0.1",
+  "description": "unhandled-rejection-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/unhandled-rejection-promise.git"
+  },
+  "keywords": [
+    "unhandled",
+    "rejection",
+    "promise"
+  ],
+  "author": "Jesus Cereceres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/unhandled-rejection-promise/issues"
+  },
+  "homepage": "https://github.com/Cereceres/unhandled-rejection-promise#readme"
+}
